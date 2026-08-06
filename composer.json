@@ -198,9 +198,8 @@
     "koodimonni/composer-dropin-installer": "*",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
-    "roots/wordpress": "^6.5",
-    "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.1.0",
+    "roots/wordpress": "^7.0",
+    "roots/wp-config": "^1.0",
     "vlucas/phpdotenv": "^5.5",
     "wpackagist-plugin/adminimize": "*",
     "wpackagist-plugin/breadcrumb-navxt": "*",
@@ -245,7 +244,7 @@
       "roots/wordpress-core-installer": true
     },
     "platform": {
-      "php": "7.4.33"
+      "php": "8.4.24"
     }
   },
   "minimum-stability": "dev",
